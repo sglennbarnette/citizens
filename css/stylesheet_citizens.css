@@ -1,0 +1,69 @@
+.citizens_logo{
+  width: 900px;
+  margin: 10px 10px;
+  background-color: black;
+  clear: both;
+  float: right;
+
+}
+
+body{
+  font-family: Arial, serif;
+  background-color: #ddeaf0;
+  display: block;
+  padding: 
+}
+
+.wrapper{
+  width: 960px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.main_content{
+  
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+
+nav{
+  font-family: Arial, serif;
+    background: #eef0ef;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;  
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+  
+}
+li{
+  display: inline-block;
+  margin: 5px 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #013a65;
+  font-size: .75em;
+  text-shadow: 0 -2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.dedicated_p{
+  background-color: #669696;
+  border-radius: 10px;
+  width: 720px;
+  height: 165px;
+} 
+
+
+
+
